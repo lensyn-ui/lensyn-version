@@ -21,6 +21,9 @@
         "version-list": [{
             "item-name": "v1.0.1",
             "item-desc": "Vue development package for developing large projects based on asynchronous loading module mechanism based on Routing.The development language is Typescript."
+        }, {
+            "item-name": "v1.0.2",
+            "item-desc": "Vue development package for developing large projects based on asynchronous loading module mechanism based on Routing.The development language is Typescript."
         }]
     },
     {
