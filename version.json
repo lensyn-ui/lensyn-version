@@ -29,6 +29,9 @@
       },{
         "item-name": "v1.0.2",
         "item-desc": "Lensyn front-end component library based on Vue."
+      },{
+        "item-name": "v1.2.16",
+        "item-desc": "Lensyn front-end component library based on Vue."
       }
       ]
     }
